@@ -27,7 +27,7 @@
 
 /* Header Section */
 .header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/bg.jpg);
     min-height: 70vh;
     width: 100%;
     background-position: center;
